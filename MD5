@@ -1,0 +1,14 @@
+f3471bec2dce7c20c0b04771b059f850 *DESCRIPTION
+03f0811a6d9f4893ca997c391155ef41 *NAMESPACE
+13e92838e542a2829ad90a084e1cbeac *NEWS.md
+76da9ee3601cfb62502b5a8244e6bc00 *R/internal.R
+44b581f9d0eca0874f667d632fbd1014 *R/swipeR.R
+7ec914250ea17ecf045214126d14a10d *README.md
+d59872307f214a4c7502716252321c2e *inst/htmlwidgets/libs/swiper/swiper-bundle.css
+8bd8f48b3e09e7e11b31f44c54a3767b *inst/htmlwidgets/libs/swiper/swiper-bundle.min.js
+171f9dd1545d07c8ef61017b2565ff79 *inst/htmlwidgets/swipeR.js
+700742428146942be830555116546dc3 *inst/htmlwidgets/swipeR.yaml
+674d0ca452d0b5f8e9433dc41f0874b2 *inst/htmlwidgets/swipeRstyles.css
+d601ae7d11e9db4757d7dafbf989e947 *man/swipeR-shiny.Rd
+17e86169c50a07d041849f7d9bf8487b *man/swipeR.Rd
+f62412447f0407ed5cb276449fabaf5b *man/swipeRwrapper.Rd
