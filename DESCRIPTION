@@ -1,7 +1,7 @@
 Type: Package
 Package: swipeR
 Title: Carousels using the 'JavaScript' Library 'Swiper'
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     c(
       person("Stéphane", "Laurent", , "laurent_step@outlook.fr", role = c("aut", "cre")),
@@ -20,9 +20,9 @@ Suggests: ggplot2, ggthemes, shiny, shinyWidgets
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-07-10 16:01:46 UTC; SDL96354
+Packaged: 2023-08-26 14:57:22 UTC; SDL96354
 Author: Stéphane Laurent [aut, cre],
   Vladimir Kharlampidi [cph] ('swiper' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2023-07-10 22:30:05 UTC
+Date/Publication: 2023-08-26 18:30:02 UTC
